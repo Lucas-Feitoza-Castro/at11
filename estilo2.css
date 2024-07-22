@@ -1,0 +1,31 @@
+#pai{
+    display: flex;
+    color: white;
+}
+
+#a2 {
+    background-color: purple;
+    width: 700px;
+}
+
+#a1 {
+    background-color: blue;
+    width: 300px;
+}
+
+#filho{
+    display: flex;
+}
+
+#a3 {
+    background-color: red;
+    width: 300px;
+    height: 300px;
+    margin-right: 50px;
+}
+
+#a4 {
+    background-color: green;
+    width: 300px;
+    height: 300px;
+}

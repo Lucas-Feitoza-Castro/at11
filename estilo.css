@@ -1,0 +1,17 @@
+#pai{
+    display: flex;
+}
+
+#cE{
+background-color: red;
+width: 250px;
+height: 300px;
+color: white;
+margin-right: 50px;
+}
+#cD{
+background-color: blue;
+width: 700px;
+height: 300px;
+color: white;
+}

@@ -1,0 +1,25 @@
+#superior {
+    color: white;
+    background-color: blue;
+}
+
+.caixa {
+    width: 300px;
+    height: 200px;
+    background-color: lightgray;
+    text-align: center;
+
+}
+
+.espaco {
+   margin: 0 30px;
+}
+
+#inferior {
+    background-color: green;
+}
+
+.linha {
+    display: flex;
+    margin-bottom: 30px;
+}
